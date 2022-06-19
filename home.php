@@ -22,13 +22,14 @@
 
 <section class="header">
 
-   <a href="home.php" class="logo">travel.</a>
+<a href="home.php" class="logo">Ethiopia Travels.</a>
 
    <nav class="navbar">
       <a href="home.php">home</a>
       <a href="about.php">about</a>
       <a href="package.php">package</a>
       <a href="book.php">book</a>
+      <a href="admin.php">Admin</a>
    </nav>
 
    <div id="menu-btn" class="fas fa-bars"></div>

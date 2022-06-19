@@ -22,13 +22,14 @@
 
 <section class="header">
 
-   <a href="home.php" class="logo">travel.</a>
+<a href="home.php" class="logo">Ethiopia Travels.</a>
 
    <nav class="navbar">
       <a href="home.php">home</a>
       <a href="about.php">about</a>
       <a href="package.php">package</a>
       <a href="book.php">book</a>
+      <a href="admin.php">Admin</a>
    </nav>
 
    <div id="menu-btn" class="fas fa-bars"></div>
@@ -216,6 +217,8 @@
          <a href="about.php"> <i class="fas fa-angle-right"></i> about</a>
          <a href="package.php"> <i class="fas fa-angle-right"></i> package</a>
          <a href="book.php"> <i class="fas fa-angle-right"></i> book</a>
+             
+
       </div>
 
       
